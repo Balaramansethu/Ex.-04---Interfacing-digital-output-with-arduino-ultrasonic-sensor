@@ -68,10 +68,8 @@ void loop()
 
 OUTPUT:
 Before Simulation:
-![image](https://github.com/Balaramansethu/Ex.-04---Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/96691241/80406cfd-3d87-4db4-9949-d1b722d3052a)
-
+![image](https://github.com/Balaramansethu/Ex.-04---Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/96691241/55522c65-a976-4267-b33b-d0eaa7c79e74)
 After Simulation:
-![image](https://github.com/Balaramansethu/Ex.-04---Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/96691241/ce7bf5e0-4394-4e4a-b69f-5bd9aa4215d3)
-
+![image](https://github.com/Balaramansethu/Ex.-04---Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/96691241/c2b502af-1e3f-4107-8241-0ce578956054)
 RESULTS
 The Ultrasonic sensor is used to measure the distance successfully
